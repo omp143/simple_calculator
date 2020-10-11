@@ -1,9 +1,11 @@
 # simple_calculator
-project_cs200
-the project is very simple 
-this priject a simple calulator add ,mux ,sub,div 
-all function call a  in switch cases
-case' +' =add
-case '*'=mux
-case'-'=sub
-case'/'=div
+project_CS200
+this is a simple project
+this project is a simple calculator that can do addition(add), substraction(sub), multiplication(mul) and division(div) 
+it takes two input
+there are many cases according to our requirement what operation we want to perform
+case '+' = add
+case '*' = mul
+case '-' = sub
+case '/' = div
+if we choose case '*' then it will show multiplication
